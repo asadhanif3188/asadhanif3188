@@ -1,8 +1,8 @@
 <div id="header" align="center">
-  <img src="https://scontent.fisb5-1.fna.fbcdn.net/v/t1.6435-9/80396548_10222315684187497_3803206739042500608_n.jpg?_nc_cat=100&cb=99be929b-59f725be&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeE3CM0m0lWf04dChn6Wr5VROYvPo8dr0wM5i8-jx2vTA0htFrZenphldzCV5l3vwAg&_nc_ohc=CkccgNLrhpgAX-l3XZd&_nc_ht=scontent.fisb5-1.fna&oh=00_AfBWgk3nuj2wc_v7grAdLAh1W6QtzhFOOP-jA1Fm0OkX1g&oe=64F67C4A" width="150"/>
+  <img src="https://scontent.fisb5-1.fna.fbcdn.net/v/t1.6435-9/80396548_10222315684187497_3803206739042500608_n.jpg?_nc_cat=100&cb=99be929b-59f725be&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeE3CM0m0lWf04dChn6Wr5VROYvPo8dr0wM5i8-jx2vTA0htFrZenphldzCV5l3vwAg&_nc_ohc=CkccgNLrhpgAX-l3XZd&_nc_ht=scontent.fisb5-1.fna&oh=00_AfBWgk3nuj2wc_v7grAdLAh1W6QtzhFOOP-jA1Fm0OkX1g&oe=64F67C4A" width="200"/>
 </div>
 
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://www.linkedin.com/in/asadhanif3188/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
