@@ -1,5 +1,14 @@
-### Hi there 👋
+### About Me 👋
 
+I am a passionate and motivated professional with extensive experience in the field of Education and DevOps/Cloud Computing. With a strong background in teaching new technologies to undergrad students as well as practicing DevOps/Cloud computing for industry projects. I have a proven track record of success in adopting DevOps tools to accomplish automation. 
+
+Throughout my career, I have consistently demonstrated a dedication to excellence, a commitment to ongoing learning and development, and a passion for leveraging technology to drive business outcomes. I am adept at collaborating with cross-functional teams, communicating complex technical concepts to non-technical stakeholders, and adapting quickly to changing business needs.
+
+As a DevOps/Cloud Engineer, I am constantly seeking new challenges and opportunities to learn and grow. I am excited about the future of DevOps and am committed to staying at the forefront of emerging trends and best practices.
+
+If you are interested in connecting or learning more about my experience and background, please don't hesitate to reach out. I am always eager to connect with like-minded professionals and explore potential opportunities for collaboration.
+
+<!--
 **asadhanif3188/asadhanif3188** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,3 +22,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+-->
