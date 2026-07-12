@@ -1,6 +1,6 @@
-<div id="header" align="center">
+<!-- <div id="header" align="center">
   <img src="https://scontent.fisb5-1.fna.fbcdn.net/v/t1.6435-9/80396548_10222315684187497_3803206739042500608_n.jpg?_nc_cat=100&cb=99be929b-59f725be&ccb=1-7&_nc_sid=09cbfe&_nc_eui2=AeE3CM0m0lWf04dChn6Wr5VROYvPo8dr0wM5i8-jx2vTA0htFrZenphldzCV5l3vwAg&_nc_ohc=CkccgNLrhpgAX-l3XZd&_nc_ht=scontent.fisb5-1.fna&oh=00_AfBWgk3nuj2wc_v7grAdLAh1W6QtzhFOOP-jA1Fm0OkX1g&oe=64F67C4A" width="200"/>
-</div>
+</div> -->
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/asadhanif3188/">
@@ -16,15 +16,29 @@
   -->
 </div>
 
-### About Me 👋
+## About Me 👋
 
-I am a passionate and motivated professional with extensive experience in the field of Education and DevOps/Cloud Computing. With a strong background in teaching new technologies to undergrad students as well as practicing DevOps/Cloud computing for industry projects. I have a proven track record of success in adopting DevOps tools to accomplish automation. 
+I'm an **AI Engineer with an infrastructure backbone** — I build LLM-powered systems
+*and* deploy them to production. Most AI engineers can do one; my edge is doing both.
 
-Throughout my career, I have consistently demonstrated a dedication to excellence, a commitment to ongoing learning and development, and a passion for leveraging technology to drive business outcomes. I am adept at collaborating with cross-functional teams, communicating complex technical concepts to non-technical stakeholders, and adapting quickly to changing business needs.
+**What I'm working on:**
+- 🔭 Deploying and operating **LLM observability** (self-hosted Langfuse on Kubernetes)
+  for production AI assistants — tracing, prompt management, evals, and cost tracking
+- 🧱 Building **RAG pipelines and AI agents** with evaluation baked in from day one
+- ⚙️ 3+ years running **production infrastructure**: Kubernetes (AKS), Terraform,
+  GitLab CI/CD, ArgoCD, Azure & AWS
 
-As a DevOps/Cloud Engineer, I am constantly seeking new challenges and opportunities to learn and grow. I am excited about the future of DevOps and am committed to staying at the forefront of emerging trends and best practices.
+**Background:**
+- 🎓 10 years teaching Computer Science (Programming for AI, Distributed Computing,
+  Cloud Computing) — I explain complex systems clearly, to engineers and stakeholders alike
+- 🛠️ DevOps/MLOps consultant for enterprise clients — 20+ microservices in production,
+  monthly → daily release cadence
 
-If you are interested in connecting or learning more about my experience and background, please don't hesitate to reach out. I am always eager to connect with like-minded professionals and explore potential opportunities for collaboration.
+**Currently deepening:** advanced RAG patterns, LangGraph agents, AI evaluation
+frameworks (Ragas, Langfuse) — through a structured 43-week Applied AI Engineer program,
+building production-grade projects along the way.
+
+📫 Reach me: asadhanif3188@gmail.com | [LinkedIn](https://www.linkedin.com/in/asadhanif3188)
 
 <!--
 **asadhanif3188/asadhanif3188** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
