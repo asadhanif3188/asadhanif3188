@@ -38,6 +38,9 @@ I'm an **AI Engineer with an infrastructure backbone** — I build LLM-powered s
 frameworks (Ragas, Langfuse) — through a structured 43-week Applied AI Engineer program,
 building production-grade projects along the way.
 
+Classroom → production infrastructure → AI systems. Every transition ran on the
+same principle: *I may not know the answers, but I trust myself to figure it out.*
+
 📫 Reach me: asadhanif3188@gmail.com | [LinkedIn](https://www.linkedin.com/in/asadhanif3188)
 
 <!--
