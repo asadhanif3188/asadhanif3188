@@ -22,16 +22,16 @@ I'm an **AI Engineer with an infrastructure backbone** — I build LLM-powered s
 *and* deploy them to production. Most AI engineers can do one; my edge is doing both.
 
 **What I'm working on:**
-- 🔭 Deploying and operating **LLM observability** (self-hosted Langfuse on Kubernetes)
+- Deploying and operating **LLM observability** (self-hosted Langfuse on Kubernetes)
   for production AI assistants — tracing, prompt management, evals, and cost tracking
-- 🧱 Building **RAG pipelines and AI agents** with evaluation baked in from day one
-- ⚙️ 3+ years running **production infrastructure**: Kubernetes (AKS), Terraform,
+- Building **RAG pipelines and AI agents** with evaluation baked in from day one
+- 3+ years running **production infrastructure**: Kubernetes (AKS), Terraform,
   GitLab CI/CD, ArgoCD, Azure & AWS
 
 **Background:**
-- 🎓 10 years teaching Computer Science (Programming for AI, Distributed Computing,
+- 10 years teaching Computer Science (Programming for AI, Distributed Computing,
   Cloud Computing) — I explain complex systems clearly, to engineers and stakeholders alike
-- 🛠️ DevOps/MLOps consultant for enterprise clients — 20+ microservices in production,
+- DevOps/MLOps consultant for enterprise clients — 20+ microservices in production,
   monthly → daily release cadence
 
 **Currently deepening:** advanced RAG patterns, LangGraph agents, AI evaluation
